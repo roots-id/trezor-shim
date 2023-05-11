@@ -22,7 +22,7 @@ Where:
 
 ### Standalone test
 ```
-python ./tests/core/test_module.py
+python ./tests/test_module.py
 ```
 
 ### Signify test
@@ -32,6 +32,6 @@ python ./tests/core/test_module.py
 
 * Execute the test:
 ```
-python ./tests/core/test_signify.py   
+python ./tests/test_signify.py   
 ```
 
